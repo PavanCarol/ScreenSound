@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQj0l8QJ7oB2b5DzW25aOwLwqrvnHF9h/RRQtFtlhPEpCQ020Yzw6kj+cIRWHAm3Wo84tNkLAmuJconyZ6R8PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desktop1\\source\\repos\\Alura\\ScreenSound\\ScreenSound.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

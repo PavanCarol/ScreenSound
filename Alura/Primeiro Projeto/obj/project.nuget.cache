@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7+lozHTEhZ3fiGvtXNNVFH6mqCzoas7U/KMrJmv7e+IatJTVC9xjA7XEs/ezdcQe0VxMkAguASnROJtaIJxkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desktop1\\source\\repos\\Alura\\Primeiro Projeto\\Primeiro Projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\desktop1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
